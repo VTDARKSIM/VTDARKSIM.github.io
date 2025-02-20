@@ -1,0 +1,82 @@
+<p>Things I recommend:</p>
+    <ol>
+        <li>Get off centralized social media</li>
+        <ul>
+            <li>Download your Twitter/X data and delete your account. Just do it. Dude is a straight up nazi.</li>
+            <li>Download your Facebook data and delete your account. At a minimum deactivate it.</li>
+            <li>Get off TikTok. That's either going away or will become an American propaganda machine.</li>
+        </ul>
+        <li>Join decentralized social media. There are lots of options in the federated universe, i.e. <a href=https://simplyexplained.com/videos/mastodon-and-fediverse-explained/">"the Fediverse"</a>.</li>
+        <ul>
+            <li><a href="https://joinmastodon.org/">Mastodon</a>: Similar to Twitter but with far fewer nazis.</li>
+            <li><a href="https://pixelfed.org/">Pixelfed</a>: Similar to Instagram but not owned by a billionaire.</li>
+            <li><a href="https://loops.video/">Loops</a>: In beta right now, but poised to become a decentralized version of TikTok.</li>
+            <li><a href="https://friendi.ca/">Friendica</a>: The closest thing to Facebook, but it admittedly is pretty far from being ready for mainstream.</li>
+            <li><a href="https://www.funkwhale.audio/">Funkwhale</a>: A music-sharing service. It's certainly not perfect but it might suit your needs.</li>
+            <li><a href="https://joinpeertube.org/">Peertube</a>: Similar to YouTube.</li>
+            <li><a href="https://fediverse.info/explore/projects">Others</a>: There are a bunch more options out there, so explore and see what you like! The best part is all these platforms are federated, meaning they can interact with each other!</li>
+        </ul>
+        <li>Protect your data!</li>
+        <ul>
+            <li>Turn off listening devices</li>
+            <ul>
+                <li>Turn off the "Hey Siri" and "Hey Alexa" functions on your devices. Apple already settled a lawsuit about them listening in on users without their knowledge.</li>
+                <li>I distrust my Alexa so much I stashed it in the garage far from any conversations.</li>
+            </ul>
+            <li>Web browsing</li>
+            <ul>
+                <li>Delete Chrome and use a privacy-focused browser like <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>.</li>
+                <li>Use plugins like <a href="https://ublockorigin.com/">uBlock Origin</a> and <a href="https://privacybadger.org/">Privacy Badger to hamper sites from tracking you</a>.</li>
+                <li>Stop using Google. <a href="https://duckduckgo.com/">DuckDuckGo</a> is a good alternative I've been using for a couple years now.</li>
+            </ul>
+            <li>Communicate securely</li>
+            <ul>
+                <li>Invest in a Virtual Private Network (VPN). There are a ton out there, but I've been using <a href="https://proton-vpn.org/">Proton VPN</a> and love it. I have it on my phone, iPad, computers, and even our home router, so our identity online is masked.</li>
+                <li>iChats are encrypted but I am skeptical of Apple's long-term resistance to authoritarianism. Consider <a href="https://signal.org/download/">Signal</a>, which is an open-source messaging app that has world-class encryption capabilities.</li>
+                <li>You should assume your emails are being read by someone, as there's no security on them. Especially Gmail, since Google spies on you. Consider an encrypted email service like <a href="https://mail.proton.me/">Proton Mail</a> or <a href="https://mail.tutanota.com/">Tuta Mail</a>.</li>
+            </ul>
+            <li>Consider using a password manager.</li>
+            <ul>
+                <li>I have been using <a href="https://bitwarden.com/">Bitwarden</a> for the last two years or so and have been pleased. I can create complex passwords that autofill on my computer and phone, and don't need to remember them.</li>
+                <li>I also have access to <a href="https://proton.me/pass">Proton Pass</a> as a Proton customer, offering similar features. The UI isn't as clean, but it does allow me to create email aliases (like the one above) to hide my real email address.</li>
+            </ul>
+            <li>Back up your data and encrypt it.</li>
+            <ul>
+                <li>I subscribed to <a href="https://ente.io/">Ente</a>, a photo service that backs up photos from your phone and computer, encrypts them end-to-end, and stores them remotely.</li>
+                <li>Drop Google Drive and use something more secure like <a href="https://drive.proton.me/">Proton Drive</a>. It's not as seamless as GD, but it encrypts your files end-to-end.</li>
+            </ul>
+            <li>Use other open-source software to protect your data</li>
+            <ul>
+                <li>Get rid of Google Maps and Apple Maps. Try <a href="https://wego.here.com/">HERE WeGo</a>, <a href="https://organicmaps.app/">Organic Maps</a>, or <a href="https://onthegomap.com/">On The Go Map</a>. They are open-source, don't collect data, and are viable alternatives to the first two depending on your use case.</li>
+                <li>I'm told the <a href="https://www.libreoffice.org/">LibreOffice Suite</a> is a nice alternative to Microsoft Office, but I have not tried it myself. It's on my to-do list.</li>
+            </ul>
+        </ul>
+        <li>Get your news from reputable sources</li>
+        My trust in mainstream media has disintegrated, but it's critical we look to credible new sources and verify others before spreading information. These are not endorsements but may be good options:
+        <ul>
+            <li><a href="https://www.aljazeera.com/">Al Jazeera</a></li>
+            <li><a href="https://www.apnews.com/">The Associated Press</a></li>
+            <li><a href="https://www.axios.com/">Axios</a></li>
+            <li><a href="https://www.bbc.com/news">BBC News</a></li>
+            <li><a href="https://www.npr.org/">NPR</a></li>
+            <li><a href="https://www.reuters.com/">Reuters</a></li>
+            <li><a href="https://substack.com/">Substack</a> - There are a lot of good independent journalists on here, like <a href="https://substack.com/@aaronparnas">Aaron Parnas</a>, <a href="https://substack.com/@aaronrupar">Aaron Rupar</a>, and <a href="https://substack.com/@dashdobrofsky">Dash Dobrofsky</a>, to name a few.</li>
+            <li><a href="https://www.wsj.com/">The Wall Street Journal</a></li>
+        </ul>
+        
+        <li>Shop ethically!</li>
+        It's time we stop giving money to companies who advocate for voter suppression, harmful policies, or outright fascism. We should support local, ethical, environmentally-friendly businesses instead!
+        <ul>
+            <li>Delete your Amazon account. You don't need it, really. I wavered on this for about a year until I just decided to do it one day, and I'm happier for it.</li>
+            <li>Stop using Google (a common thread, if you haven't noticed it already). There are a bunch of alternatives to their suite of tools.</li>
+            <li>Don't support Home Depot or Lowes if you can help it. I just started going to my local <a href="https://www.acehardware.com/">Ace Hardware</a> store, which is locally-owned, and they can meet most of my needs.</li>
+            <li>Shop local if you can. Yes it is easier to order something from your phone, but keeping money local is much better for your community.</li>
+        </ul>
+        <li>Get plugged in!</li>
+        <ul>
+            <li>There's a ton of horrible news out there these days, so much so it's easy to get overwhelmed. Find something you enjoy and make it a regular habit to do it.</li>
+            <li>Join a local group, book club, sports team, whatever.</li>
+            <li>Pick a cause or causes you believe in and give recurring donations if you have the ability!</li>
+            <li>Lastly, don't be an asshole. Life is hard enough, don't make it harder for others. Unless they're nazis. Fuck nazis.</li>
+        </ul>
+    </ol>
