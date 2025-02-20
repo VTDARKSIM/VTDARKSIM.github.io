@@ -1,4 +1,12 @@
-<p>Things I recommend:</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Things I recommend</title>
+</head>
+<body>
+    <h1>Things I recommend</h1>
     <ol>
         <li>Get off centralized social media</li>
         <ul>
@@ -80,3 +88,5 @@
             <li>Lastly, don't be an asshole. Life is hard enough, don't make it harder for others. Unless they're nazis. Fuck nazis.</li>
         </ul>
     </ol>
+</body>
+</html>
